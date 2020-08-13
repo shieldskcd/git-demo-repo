@@ -1,0 +1,25 @@
+2020/08/13 16:02:43 | --> Wrapper Started as Service
+2020/08/13 16:02:43 | Java Service Wrapper Standard Edition 64-bit 3.5.40
+2020/08/13 16:02:43 |   Copyright (C) 1999-2019 Tanuki Software, Ltd. All Rights Reserved.
+2020/08/13 16:02:43 |     http://wrapper.tanukisoftware.com
+2020/08/13 16:02:43 |   Licensed to ServiceNow, Inc. for MID
+2020/08/13 16:02:43 | 
+2020/08/13 16:02:44 | Launching a JVM...
+2020/08/13 16:02:45 | WrapperManager: Initializing...
+2020/08/13 16:02:45 | Logger for 'glide' has not been configured by the container, configuring now:
+2020/08/13 16:02:45 | Configuring log handler: java.util.logging.FileHandler
+2020/08/13 16:02:45 | Setting useParentHandlers=false for Logger 'glide'
+2020/08/13 16:02:45 | Overriding formatter to: com.glide.util.DefaultLogFormatter (for handler: java.util.logging.FileHandler)
+2020/08/13 16:29:40 | <-- Wrapper Stopped
+2020/08/13 16:29:40 | --> Wrapper Started as Service
+2020/08/13 16:29:40 | Java Service Wrapper Standard Edition 64-bit 3.5.40
+2020/08/13 16:29:40 |   Copyright (C) 1999-2019 Tanuki Software, Ltd. All Rights Reserved.
+2020/08/13 16:29:40 |     http://wrapper.tanukisoftware.com
+2020/08/13 16:29:40 |   Licensed to ServiceNow, Inc. for MID
+2020/08/13 16:29:40 | 
+2020/08/13 16:29:42 | Launching a JVM...
+2020/08/13 16:29:42 | WrapperManager: Initializing...
+2020/08/13 16:29:43 | Logger for 'glide' has not been configured by the container, configuring now:
+2020/08/13 16:29:43 | Configuring log handler: java.util.logging.FileHandler
+2020/08/13 16:29:43 | Setting useParentHandlers=false for Logger 'glide'
+2020/08/13 16:29:43 | Overriding formatter to: com.glide.util.DefaultLogFormatter (for handler: java.util.logging.FileHandler)
